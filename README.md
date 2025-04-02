@@ -1,4 +1,5 @@
-# Maltimart Ecommerce
+# Pack Trendz
+
 
 ## 📌 Live Demo
 https://multimart-ecommerce.onrender.com
